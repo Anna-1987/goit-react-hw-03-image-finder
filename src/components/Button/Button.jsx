@@ -1,5 +1,5 @@
 import React from "react";
-import css from '../Button/Button.css';
+import './Button.css';
 
 export const Button = ({onloadMore}) => (
     <button 
